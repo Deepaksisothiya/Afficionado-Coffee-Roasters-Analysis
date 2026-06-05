@@ -95,7 +95,13 @@ Approximately 42 products contributed nearly 80% of total revenue.
 
 ## Dashboard Screenshots
 
-(Add Page 1 and Page 2 dashboard screenshots here)
+### Executive Dashboard
+
+![Dashboard Page 1](Afficionado_Coffee_Roasters_Dashboard 1.PNG)
+
+### Product Analytics Dashboard
+
+![Dashboard Page 2](Afficionado_Coffee_Roasters_Dashboard 2.PNG)
 
 ## Conclusion
 
